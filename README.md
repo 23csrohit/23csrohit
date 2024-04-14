@@ -1,46 +1,98 @@
+# Hi there 👋
 
-</a></p>
-<br>
-<h1 align="center">Hi I'm Rohit Kumar Yadav👋,</h1>
-<h3 align="center">A passionate Full_Stack developer</h3>
+  
 
-<img align="right" alt="Coding" width="400" src="./APPROVED21.gif">
-<p align="left"></p>
-
-- 🔭 I’m currently working on different types of projects which helps to learn emerging technology.
-
-- </>💻 **Software Engineer Intern** at **COSMIC365.AI** [MERN STACK]
-
-- 🌱 I’m currently learning **Node Js and RESTAPI**
-
-- 👨‍💻 All of my projects are available at (https://github.com/)
-
-- 💬 Ask me about **React Js, Next Js, MongoDB, SQL & JavaScript etc...**
-
-- 📫 How to reach me **rky019085@gmail.com** 📱 Phone: **+91-9508686231**
-
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/rohityadav2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandanhm" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/rkyo19085/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/https://www.geeksforgeeks.org/" alt="Rohit Kumar Yadav" height="30" width="40" /></a
+<a href="https://github.com/23csrohit/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=text&text=IM%20HARISH&fill=linear-gradient%28to%20top%2C%20%23a18cd1%200%25%2C%20%23fbc2eb%20100%25%29%3B">
+</a>
+</p>  
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.dE4ObnWQ46TFJp-QbPAkMAHaHa?w=178&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.KhEi6z8wYQZVa0IFYmaUXAHaHa?pid=ImgDet&rs=1" alt="c" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
+<a href="https://github.com/23csrohit/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=experience&company=CRED_CLUB&role=Frontend%20Engineer%20&location=Bangalore&fill=black">
+</a>
+<a href="https://github.com/23csrohit/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=8780399&textfill=black&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A">
+</a>
+</p>
+
+## Things I use on a daily basis
+
+<p align="left">  
+<a href="https://github.com/23csrohit/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
+ </a>
+   <a href="https://github.com/23csrohit/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
+</a>
+  <a href="https://github.com/23csrohit/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa">
+</a>
+ <a href="https://github.com/23csrohit/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
+</a>
+<a href="https://github.com/23csrohit/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=ember.js&svgfill=df5c43">  
+</a>
+<a href="https://github.com/23csrohit/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
+</a>
+
+
+<!-- <a href="https://github.com/23csrohit/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
+</a> -->
+<a href="https://github.com/23csrohit/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
+</a>
+<a href="https://github.com/23csrohit/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
+</a>
+<a href="https://github.com/23csrohit/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
+</a>
+</p>
+
+
+<!-- 
+## My Skills 💻
 
 
 
+<p align="left">
+<a href="https://github.com/23csrohit/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=HTML&value=80&design=candy&fill=ff69b4">
+</a>
+<a href="https://github.com/23csrohit/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=CSS&value=70&design=candy&fill=ff69b4">
+</a>
+<a href="https://github.com/23csrohit/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=JS&value=50&design=candy&fill=ff69b4">
+</a>
+<a href="https://github.com/23csrohit/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=REACT&value=60&design=candy&fill=ff69b4">
+</a>
+<a href="https://github.com/23csrohit/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=CPP&value=50&design=candy&fill=ff69b4">
+</a>
+<a href="https://github.com/23csrohit/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=GIT&value=70&design=candy&fill=ff69b4">
+</a>
+</p>
+-->
 
 
+<!--
+# Coming soon 🚀
+
+
+
+<p align="left">
+<a href="https://github.com/23csrohit/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=">
+</a>
+</p>
+-->
+
+# Made with :purple_heart: using components from [Readme components](https://github.com/23csrohit/readme-components)
