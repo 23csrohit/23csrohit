@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Web-Development Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SudeepAcharjee](https://github.com/SudeepAcharjee)
+- 👨‍💻 All of my projects are available at [https://github.com/23csrohit](https://github.com/23csrohit)
 
 - 📫 How to reach me **rkyo19085@gmail.com**
 
