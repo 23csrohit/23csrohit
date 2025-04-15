@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Rohit kr Yadav </h1>
 <h3 align="center">A passionate developer from India.</h3>
 
-- 🔭 I’m currently working on **Full-Stack development **
-
 - 🌱 I’m currently learning **Web-Development**
 
 - 👯 I’m looking to collaborate on **Web-Development Projects**
